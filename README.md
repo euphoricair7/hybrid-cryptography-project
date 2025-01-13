@@ -3,7 +3,6 @@
 
 **Hybrid Cryptographic System for Secure RFID Data Transmission**
 
-This project, developed during a recent hackathon, tackles the challenge of securely transmitting RFID data across multiple devices. It accomplishes this by implementing a hybrid cryptographic model that incorporates several powerful security techniques.
 
 **Technical Highlights**
 
