@@ -36,3 +36,11 @@
 4. **Run the Client:**  On the client device, execute the tls_client.py script.
 5. **Start the RFID Data Transmission:**  Run the rfid_from_scanner.py script to initiate sending RFID data to the server.
 
+
+**Contributors:**
+
+1. Shailja Shaktawat: https://github.com/euphoricair7
+2. Siya Moghe: https://github.com/Siya-Moghe
+3. Pranavjeet Naidu: https://github.com/Pranavjeet-Naidu
+4. Shraddha Rao: https://github.com/sh051
+
